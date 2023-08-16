@@ -29,11 +29,6 @@ Layout: https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id=0
   </li>
 </ol>
 
-## Assets
-Download Assets: https://vidafullstack.com.br/wp-content/uploads/2021/03/to-do-list-assets.zip
-
 ## Pluss
 Essa lista deverá ser salva no localStorage.
 
-## Build
-Suba seu código no github e ghPages como este exemplo => [ https://troquatte.github.io/curso-angular-to-do-list/ ]
